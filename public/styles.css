@@ -1,0 +1,40 @@
+body {
+    background-color: #e1e8eb;
+    background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.heading { 
+    text-align: center;
+}
+
+.login { 
+    text-align: center;
+    padding-top: 20px;
+}
+
+.form {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.input {
+    margin: 40px;
+}
+
+.button { 
+    background-color: aquamarine;
+}
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+  }
+  
+  footer p {
+    color: #ccc;
+  }
