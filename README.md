@@ -1,5 +1,5 @@
 ## Project Title
-Its simple Form app without backend (will ad in future)
+Its simple Form app without backend (will add in future)
 ## Project Description 
 While building this application I learned to use material-ui from react and manipulate these components with css commands.
 ## How to run app. 
